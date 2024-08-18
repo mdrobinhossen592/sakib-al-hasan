@@ -1,0 +1,4 @@
+font-family: "Inter", sans-serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
